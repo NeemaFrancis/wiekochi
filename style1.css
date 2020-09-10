@@ -56,8 +56,8 @@ html,body{
     background-color:#a8456bc0;
 }
 p{
-    font-size: 150%;
-    line-height: 200%;
+    font-size: 125%;
+    line-height: 165%;
     text-align:justify;
     margin: 2%;
     font-family: 'Noto Sans SC',sans-serif;
@@ -69,7 +69,7 @@ p{
     flex-flow: wrap;
 }
 .para{
-    background-color: #f8ddf8;
+    background-color: #ffffff;
     width: 1300px;
     padding: 25px 30px;
     text-align: center;
@@ -79,11 +79,13 @@ p{
 }
 .para h2{
     font-size: 250%;
-    color: #5c025c;
+    color: #2a2a56;
+    font-family: 'Bebas Neue',cursive;
 }
 span{
     font-size: 160%;
-    color: rgb(252, 69, 160);
+    color: #2a2a56;
+    font-family: 'Bebas Neue',cursive;
 }
 @media screen and (max-width:768px){
     .content{
@@ -100,7 +102,7 @@ span{
     padding: 8px 16px;
     }
     p{
-    font-size: 120%;
+    font-size: 100%;
     line-height: 160%;
     margin: 4%;
     }
